@@ -1,1 +1,2 @@
-content
+
+This is second feature and merged content
